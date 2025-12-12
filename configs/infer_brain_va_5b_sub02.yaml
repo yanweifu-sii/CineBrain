@@ -1,0 +1,14 @@
+args:
+  latent_channels: 16
+  mode: inference
+  load: ./ckpts_5b/brain_lora_va_sub02
+  batch_size: 1
+  input_type: txt
+  input_file: configs/test.txt
+  sampling_image_size: [480, 720] # remove this for I2V
+  sampling_num_frames: 9  # 42 for 10 seconds and 22 for 5 seconds
+  sampling_fps: 8
+  fp16: False # For CogVideoX-2B
+  bf16: True
+  output_dir: results/brain_va_5b_sub02
+  force_inference: True

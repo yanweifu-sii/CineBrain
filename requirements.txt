@@ -1,0 +1,10 @@
+omegaconf
+pytorch_lightning
+beartype
+wandb
+datasets
+tensorboardX
+webdataset
+bitsandbytes
+decord
+einops
