@@ -4,6 +4,7 @@
 
 [![ArXiv](https://img.shields.io/badge/ArXiv-2503.06940-b31b1b.svg?logo=arXiv)](https://arxiv.org/abs/2503.06940)
 [![Dataset](https://img.shields.io/badge/Dataset-CineBrain-faa035.svg?logo=Huggingface)](https://huggingface.co/datasets/Fudan-fMRI/CineBrain)
+[![Model](https://img.shields.io/badge/Model-CineSync-faa035.svg?logo=Huggingface)](https://huggingface.co/Fudan-fMRI/CineSync)
 
 
 
@@ -42,7 +43,7 @@ pip install -r requirements.txt
 ### 3️⃣ Prepare Models
 
 1. Download the [CogVideo-5B](https://github.com/zai-org/CogVideo/releases/tag/v1.0) base model
-2. Download CineBrain-related weights from [HuggingFace](https://huggingface.co/datasets/Fudan-fMRI/CineBrain) *(link to be updated)*
+2. Download CineBrain-related weights from [HuggingFace](https://huggingface.co/Fudan-fMRI/CineSync)
 
 
 
