@@ -1,4 +1,4 @@
-# CineBrain: A Large-Scale Multi-Modal Brain Dataset for Naturalistic Audiovisual Narrative Processing
+# [CVPR 2026] CineBrain: A Large-Scale Multi-Modal Brain Dataset for Naturalistic Audiovisual Narrative Processing
 
 [Jianxiong Gao](https://jianxgao.github.io/), Yichang Liu, Baofeng Yang, [Jianfeng Feng](https://www.dcs.warwick.ac.uk/~feng/), [Yanwei Fu†](http://yanweifu.github.io/)
 
